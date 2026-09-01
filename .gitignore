@@ -1,0 +1,18 @@
+﻿# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local Vector Database & Models
+data/qdrant_db/
+data/onnx_model/
+data/raw/
+
+# IDE Settings
+.vscode/
+.idea/
